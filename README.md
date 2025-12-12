@@ -15,6 +15,7 @@ Let's connect and embark on this coding adventure together!
 ### 🔭 Skills
 
 **Design & UX/UI:** Adobe Creative Suite, Figma, Sketch
+
 **Frontend & Development:** HTML5 | CSS3 | Bootstrap | JavaScript | React | NodeJS | ExpressJS | API
 
 ### 🌱 Currently Focusing On
