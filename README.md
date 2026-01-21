@@ -1,6 +1,6 @@
 # Hi, I'm Hyunjung 👋
 
-UI/UX & Product Designer | Exploring Frontend Development
+UX/UI & Product Designer | Frontend Development
 
 With a background in the travel industry, I apply a fresh perspective to uncover real user problems and create
 intuitive, user-centered designs. I use curiosity and creativity to solve complex challenges and deliver meaningful and
