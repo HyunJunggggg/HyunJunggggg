@@ -29,6 +29,6 @@ Exercise
 
 ### 👯 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/hyunjungs) | [Email](mailto:hyunjung9219@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hyunjungs) | [Portfolio](https://hyunjung.ca/) | [Email](mailto:hyunjung9219@gmail.com)
 
 
