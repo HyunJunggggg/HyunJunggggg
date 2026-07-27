@@ -1,34 +1,59 @@
 # Hi, I'm Hyunjung 👋
 
-UX/UI & Product Designer | Frontend Development
+### AI-native Product Designer creating intuitive digital experiences
 
-With a background in the travel industry, I apply a fresh perspective to uncover real user problems and create
-intuitive, user-centered designs. I use curiosity and creativity to solve complex challenges and deliver meaningful and
-engaging digital experiences.
+I design digital products that combine user-centered design, AI-native workflows, and practical implementation.
+
+My background spans product design, UX/UI, web design, and digital marketing, allowing me to bridge user needs, business goals, and emerging AI technologies.
+
+I enjoy turning complex workflows into intuitive experiences—from research and information architecture to prototyping and implementation.
 
 ---
 
+## 🛠 Skills
 
-### 🔭 Skills
+### Product Design
+UX Research • Information Architecture • User Flows • Wireframing • Prototyping • Design Systems • Accessibility (WCAG) • Usability Testing
 
-**Design & UX/UI:** Adobe Creative Suites(Photoshop, Illustrator, After Effects, InDesign,Premeiere Pro) | Figma | WordPress | Canva | Sketch
+### Design Tools
+Figma • FigJam • Adobe Creative Cloud (Photoshop, Illustrator, After Effects, InDesign, Premiere Pro) • Framer • Webflow • WordPress
 
-**Frontend & Development:** HTML5 | CSS3 | JavaScript | Bootstrap | JavaScript | React | NodeJS | ExpressJS | API | Git | Github 
+### Front-end
+HTML • CSS • JavaScript • React • Next.js • Git • GitHub
 
-### 🌱 Currently Focusing On
+### AI Workflow
+ChatGPT • Claude Code • Gemini • Figma Make • Relume • AI-assisted Product Design
 
-Building Portfolio 
-Exercise 
+---
 
-### ⚡ Fun Facts About Me
+## 🚀 Current Focus
 
-* Love outdoor activities 🌲
-* Enjoy traveling and scuba diving (even though I can’t swim yet!) 🐠
-* Always seeking self-motivation 💪
-* Love seeing cats on social media 🐱
+- Building AI-powered products
+- Developing Career Hub (AI Career Assistant)
+- Designing thoughtful digital experiences
+- Exploring AI-native design workflows
 
-### 👯 Let's Connect
+---
 
-[LinkedIn](https://www.linkedin.com/in/hyunjungs) | [Portfolio](https://hyunjung.ca/) | [Email](mailto:hyunjung9219@gmail.com)
+## 🌿 A Few Things About Me
 
+- Love outdoor adventures and traveling 🌲
+- Scuba diving is one of my favorite hobbies 🤿
+- I enjoy building products that solve real problems ✨
+- Cat videos always make my day 🐱
 
+---
+
+## 🌐 Portfolio
+
+**Product Design Portfolio**  
+https://hyunjung.ca
+
+> Portfolio password is available upon request.
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: https://linkedin.com/in/hyunjungs
+- Email: hyunjung9219@gmail.com
