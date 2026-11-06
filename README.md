@@ -47,7 +47,8 @@ ChatGPT • Claude Code • Gemini • Figma Make • Relume • AI-assisted Pro
 ## 🌐 Portfolio
 
 **Product Design Portfolio**  
-https://hyunjung.ca
+Product Portfolio: https://hyunjung.ca
+Visual, Web & Motion Design Portfolio: https://hjdesign.vercel.app
 
 > Portfolio password is available upon request.
 
